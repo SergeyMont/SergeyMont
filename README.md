@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on finish graduate work 👨‍💻
+
+Next time I whant to coloborate whith interesting people 👯
+
+Links:
+https://career.habr.com/srgiomol
