@@ -46,5 +46,5 @@ public class About extends Me implements JavaDeveloper{
     }
 }
 ```
-This page to [My Habr account](https://career.habr.com/srgiomol).
+This link to [My Habr account](https://career.habr.com/srgiomol).
 
