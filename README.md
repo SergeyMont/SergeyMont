@@ -19,5 +19,32 @@ Here are some ideas to get you started:
 
 Next time I whant to coloborate whith interesting people 👯
 
-Links:
-https://career.habr.com/srgiomol
+***Some information about me:***
+```
+public class About extends Me implements JavaDeveloper{
+    private int age = 34;
+    private String name = "Sergey";
+
+    public List<String> getKnowledge(){
+        return Stream.of("Java"
+                , "Spring"
+                , "SQL"
+                , "JPA"
+                , "JDBC"
+                , "REST"
+                , "Maven"
+                , "PostgreSQL"
+                , "Hibernate ORM"
+                , "JUnit"
+                , "Mockito"
+                , "Git"
+                , "Docker").collect(Collectors.toList());
+    }
+
+    public String getFutureGoal(){
+        return "Find a great team to work with";
+    }
+}
+```
+This page to [My Habr account](https://career.habr.com/srgiomol).
+
