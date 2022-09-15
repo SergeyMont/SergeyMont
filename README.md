@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on finish graduate work 👨‍💻
+🔭 I’m currently working on finish graduate 👨‍💻
 
 Next time I whant to coloborate whith interesting people 👯
 
